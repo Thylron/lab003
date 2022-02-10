@@ -1,0 +1,30 @@
+{
+  "projets_ssis": {
+    "projet": [
+      {
+        "LIB_PROJET": "Libellé projet SSIS 01",
+        "COD_PROJET": "CODE_PROJ_SSIS_01"
+      },
+      {
+        "LIB_PROJET": "Libellé projet SSIS 02",
+        "COD_PROJET": "CODE_PROJ_SSIS_02"
+      },
+      {
+        "LIB_PROJET": "Libellé projet SSIS 03",
+        "COD_PROJET": "CODE_PROJ_SSIS_03"
+      }
+    ]
+  },
+  "projets_ssrs": {
+    "projet": [
+      {
+        "LIB_PROJET": "Libellé projet SSRS 01",
+        "COD_PROJET": "CODE_PROJ_SSRS_01"
+      },
+      {
+        "LIB_PROJET": "Libellé projet SSRS 02",
+        "COD_PROJET": "CODE_PROJ_SSRS_02"
+      }
+    ]
+  }
+}
